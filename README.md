@@ -1,7 +1,5 @@
 # ⌨️ Typing Speed Test 🕒
 
-![Typing Speed Test](https://i.pinimg.com/originals/af/7c/0a/af7c0a4f96c0021f368956ce0b04e73a.jpg)
-
 This is a simple **Typing Speed Test** script written in Python. It helps you test your typing speed and accuracy based on randomly selected sentences.
 
 ## 🚀 Features
